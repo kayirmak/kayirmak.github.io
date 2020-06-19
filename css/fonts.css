@@ -1,0 +1,12 @@
+/* font-family: "din"; */
+@font-face {
+    font-family: "DINNextLTPro";
+    src: url("../fonts/din fonts/DINNextLTPro-Light.eot");
+    src: url("../fonts/din fonts/DINNextLTPro-Light.eot") format("embedded-opentype"),
+    url("../fonts/din fonts/DINNextLTPro-Light.woff") format("woff"),
+    url("../fonts/din fonts/DINNextLTPro-Light.ttf") format("truetype");
+    font-style: normal;
+
+}
+
+
